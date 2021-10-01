@@ -13,9 +13,9 @@ public class LinkedListTest {
         a.add("Erica");
         List<String> b = new LinkedList<>();
         b.add("Bob");
-        b.add("Doug");
+        b.add("Frankenstein");
         b.add("Frances");
-        b.add("Gloria");
+        b.add("Indiana");
 
         ListIterator<String> aIter = a.listIterator();
         Iterator<String> bIter = b.iterator();
